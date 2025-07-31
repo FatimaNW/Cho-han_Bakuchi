@@ -34,11 +34,11 @@ To run the game:
    python cho_han.py
    ```
 
-## 📌 Note
-This project was created during my first semester of university as part of Python Fundamentals course.
-
 ## ❗ Disclaimer
 This game is intended solely for educational and recreational purposes — no real gambling is involved.
+
+#
+**Note:** This project was created during my first semester of university as part of Python Fundamentals course.
 
 #
 **Enjoy playing — and may the odds be ever in your favour! 😉**
